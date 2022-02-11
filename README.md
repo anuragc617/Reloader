@@ -302,6 +302,6 @@ or contact us in case of professional services and queries on <hello@stakater.co
 [website]: http://stakater.com/
 [community]: https://github.com/stakater/
 
-## Acknowledgements
+## Acknowledgement
 
 - [ConfigmapController](https://github.com/fabric8io/configmapcontroller); We documented here why we re-created [Reloader](docs/Reloader-vs-ConfigmapController.md)
